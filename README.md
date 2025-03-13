@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes A/B testing data to compare the performance of two versions of a webpage: the control (old page-light theme) and the treatment (new page-dark theme). The goal is to determine which version improves user conversion rates.
 
-![image](https://github.com/user-attachments/assets/8f43cf72-11e4-46ec-b85b-c6122fcca058)
+![image](https://github.com/user-attachments/assets/8d399510-32e6-4e03-b199-23c651d98c8d)
 
 ## Approach: 
  Conducted an A/B test to measure the impact of dark mode on user conversion rates, analyzing 286K+ sessions.
